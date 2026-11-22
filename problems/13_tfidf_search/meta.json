@@ -1,0 +1,8 @@
+{
+  "title": "TF-IDF 類似文書検索",
+  "category": "C",
+  "difficulty": 2,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["TF-IDF", "コサイン類似度", "疎ベクトル (dict)", "collections.Counter", "ソートのキー"]
+}

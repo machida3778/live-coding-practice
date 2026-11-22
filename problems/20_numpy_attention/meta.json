@@ -1,0 +1,8 @@
+{
+  "title": "numpyでAttentionを実装",
+  "category": "D",
+  "difficulty": 3,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["numpy ブロードキャスト", "数値安定な softmax", "マスク処理 (np.where)", "reshape / transpose", "Transformer の Multi-Head Attention"]
+}

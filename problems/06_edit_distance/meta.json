@@ -1,0 +1,8 @@
+{
+  "title": "編集距離とスペル訂正",
+  "category": "B",
+  "difficulty": 2,
+  "target_minutes": 20,
+  "timeout_sec": 10,
+  "topics": ["動的計画法", "DPテーブルのメモリ削減", "ソートのキー", "枝刈り"]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "HMM 品詞タグ付け (Viterbi)",
+  "category": "B",
+  "difficulty": 3,
+  "target_minutes": 30,
+  "timeout_sec": 10,
+  "topics": ["Viterbi アルゴリズム", "隠れマルコフモデル", "動的計画法 + バックポインタ", "対数確率", "float('-inf') の扱い"]
+}

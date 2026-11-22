@@ -1,0 +1,8 @@
+{
+  "title": "ビームサーチによる系列デコーディング",
+  "category": "B",
+  "difficulty": 3,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["ビームサーチ", "デコーディング (greedy との比較)", "sort のキー / heapq", "長さ正規化", "高階関数 (関数を引数に取る)"]
+}

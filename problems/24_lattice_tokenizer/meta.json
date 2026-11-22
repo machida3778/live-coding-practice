@@ -1,0 +1,9 @@
+{
+  "title": "【模擬本番】ラティスとViterbiで形態素解析",
+  "category": "E",
+  "difficulty": 4,
+  "target_minutes": 60,
+  "timeout_sec": 10,
+  "data_files": ["dict.csv", "matrix.txt"],
+  "topics": ["ファイルのパース", "共通接頭辞検索 (辞書引き)", "ラティス (DAG) 構築", "Viterbi / 動的計画法", "未知語処理", "MeCab の仕組み"]
+}

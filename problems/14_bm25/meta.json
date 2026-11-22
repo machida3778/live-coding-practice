@@ -1,0 +1,8 @@
+{
+  "title": "BM25 による文書ランキング",
+  "category": "C",
+  "difficulty": 2,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["BM25", "情報検索", "クラス設計", "前計算", "転置インデックス"]
+}

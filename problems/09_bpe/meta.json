@@ -1,0 +1,8 @@
+{
+  "title": "BPE (Byte Pair Encoding) の学習と適用",
+  "category": "B",
+  "difficulty": 3,
+  "target_minutes": 35,
+  "timeout_sec": 20,
+  "topics": ["BPE", "サブワード分割", "collections.Counter", "タイブレーク", "シミュレーションを仕様通りに書く力"]
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# 個人の解答・成績 (ローカルのみ)
+workspace/
+history.json
+# Claude Code のローカル設定
+.claude/

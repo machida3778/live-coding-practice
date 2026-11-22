@@ -1,0 +1,8 @@
+{
+  "title": "テキスト正規化",
+  "category": "A",
+  "difficulty": 2,
+  "target_minutes": 15,
+  "timeout_sec": 5,
+  "topics": ["unicodedata.normalize (NFKC)", "re.sub", "正規表現の文字クラス", "処理順序"]
+}

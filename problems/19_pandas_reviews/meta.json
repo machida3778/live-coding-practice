@@ -1,0 +1,9 @@
+{
+  "title": "pandasでレビューデータ分析",
+  "category": "D",
+  "difficulty": 2,
+  "target_minutes": 20,
+  "timeout_sec": 20,
+  "data_files": ["reviews.csv"],
+  "topics": ["欠損・重複処理", "groupby / agg", "to_datetime / Period", "reindex によるゼロ埋め", "str.findall / explode / value_counts"]
+}

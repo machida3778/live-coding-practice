@@ -1,0 +1,8 @@
+{
+  "title": "【模擬本番】日英混在ミニ検索エンジン",
+  "category": "E",
+  "difficulty": 4,
+  "target_minutes": 60,
+  "timeout_sec": 20,
+  "topics": ["Unicode 正規化 (NFKC)", "正規表現による文字種判定", "文字 bigram", "転置インデックス", "BM25", "スニペット生成・区間マージ", "クラス設計"]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "多項ナイーブベイズ分類器",
+  "category": "C",
+  "difficulty": 3,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["ナイーブベイズ", "ラプラス平滑化", "対数確率", "log-sum-exp", "クラス設計"]
+}

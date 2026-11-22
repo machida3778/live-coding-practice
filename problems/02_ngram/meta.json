@@ -1,0 +1,8 @@
+{
+  "title": "n-gram の生成と頻度",
+  "category": "A",
+  "difficulty": 1,
+  "target_minutes": 10,
+  "timeout_sec": 5,
+  "topics": ["スライス", "zip", "collections.Counter", "例外処理"]
+}

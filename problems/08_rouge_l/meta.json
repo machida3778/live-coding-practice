@@ -1,0 +1,8 @@
+{
+  "title": "ROUGE-L (LCSベースの評価指標)",
+  "category": "B",
+  "difficulty": 2,
+  "target_minutes": 20,
+  "timeout_sec": 10,
+  "topics": ["動的計画法", "最長共通部分列 (LCS)", "評価指標 (ROUGE)", "ゼロ除算の扱い"]
+}

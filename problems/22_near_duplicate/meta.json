@@ -1,0 +1,8 @@
+{
+  "title": "Jaccard類似度による重複文書検出",
+  "category": "D",
+  "difficulty": 3,
+  "target_minutes": 30,
+  "timeout_sec": 20,
+  "topics": ["unicodedata.normalize (NFKC)", "文字 k-shingle", "集合演算", "Union-Find (経路圧縮)", "MinHash / LSH (発展)"]
+}

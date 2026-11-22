@@ -1,0 +1,8 @@
+{
+  "title": "単語ベクトルの類似検索とアナロジー",
+  "category": "D",
+  "difficulty": 2,
+  "target_minutes": 20,
+  "timeout_sec": 12,
+  "topics": ["コサイン類似度", "行の L2 正規化 (ゼロ除算回避)", "行列ベクトル積によるベクトル化", "argsort / argpartition", "word2vec のアナロジー"]
+}

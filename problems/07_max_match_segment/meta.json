@@ -1,0 +1,8 @@
+{
+  "title": "辞書による最長一致分割",
+  "category": "B",
+  "difficulty": 2,
+  "target_minutes": 20,
+  "timeout_sec": 10,
+  "topics": ["貪欲法", "set による辞書引き", "最大語長による枝刈り O(nL)", "Trie"]
+}

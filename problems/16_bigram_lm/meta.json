@@ -1,0 +1,8 @@
+{
+  "title": "バイグラム言語モデルとパープレキシティ",
+  "category": "C",
+  "difficulty": 3,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["n-gram 言語モデル", "add-k 平滑化", "未知語 <unk>", "パープレキシティ", "defaultdict / Counter"]
+}

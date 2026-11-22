@@ -1,0 +1,8 @@
+{
+  "title": "BIOタグからの固有表現抽出と F1 評価",
+  "category": "C",
+  "difficulty": 2,
+  "target_minutes": 25,
+  "timeout_sec": 10,
+  "topics": ["系列ラベリング", "BIO タグ", "precision / recall / F1", "micro 平均", "状態を持つループ"]
+}

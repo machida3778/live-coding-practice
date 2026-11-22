@@ -1,0 +1,9 @@
+{
+  "title": "sklearnで日本語ニュース分類",
+  "category": "D",
+  "difficulty": 2,
+  "target_minutes": 25,
+  "timeout_sec": 30,
+  "data_files": ["data.tsv"],
+  "topics": ["pandas.read_csv", "sklearn Pipeline", "TfidfVectorizer の analyzer / ngram_range", "LogisticRegression", "macro-F1", "coef_ の解釈"]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "日本語の文分割",
+  "category": "A",
+  "difficulty": 2,
+  "target_minutes": 15,
+  "timeout_sec": 5,
+  "topics": ["文字列の走査", "状態 (括弧の深さ) の管理", "エッジケース設計"]
+}

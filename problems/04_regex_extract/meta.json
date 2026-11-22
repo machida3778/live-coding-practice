@@ -1,0 +1,8 @@
+{
+  "title": "正規表現による日付抽出",
+  "category": "A",
+  "difficulty": 2,
+  "target_minutes": 15,
+  "timeout_sec": 5,
+  "topics": ["re.finditer", "名前付きグループ", "後方参照", "先読み・後読み", "re.sub に関数を渡す", "datetime.date"]
+}

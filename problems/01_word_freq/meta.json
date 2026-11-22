@@ -1,0 +1,8 @@
+{
+  "title": "単語頻度ランキング",
+  "category": "A",
+  "difficulty": 1,
+  "target_minutes": 10,
+  "timeout_sec": 5,
+  "topics": ["collections.Counter", "sorted のキー", "正規表現", "辞書"]
+}
